@@ -4,9 +4,10 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: Fhy00711
+    password: caoqijun
     url: jdbc:mysql://localhost:3306/x-admin?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=GMT%2b8
     type: com.alibaba.druid.pool.DruidDataSource
+
 #  jpa:
 #    generate-ddl: false
 #    hibernate:
